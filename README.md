@@ -33,6 +33,21 @@ Ensure you have npm installed with most updated version
     
 ```
 
+# Preview
+
+# Preview
+### Hair Profile Creation
+<img src="https://github.com/user-attachments/assets/d69b0746-5030-4334-a425-09882b5d1cd8" width="300">
+
+### Survey to Curate Hair Profile
+<img src="https://github.com/user-attachments/assets/084ff6df-8201-43c0-bc0e-8c37bc688336" width="300">
+
+### Hair Profile Selector
+<img src="https://github.com/user-attachments/assets/494731e6-559b-4ddc-b625-368aa1aed9eb" width="300">
+
+### Recommendation Page (Before RichRecommend, my SaaS)
+<img src="https://github.com/user-attachments/assets/3aa10cd7-c0b2-4b19-a6b4-0fcc3f96c922" width="300">
+
 PR Template:
 
 # Description
